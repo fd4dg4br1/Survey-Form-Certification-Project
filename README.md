@@ -1,7 +1,3 @@
-Aqui está uma sugestão de texto para o repositório no GitHub que destaca o propósito do trabalho e fornece informações claras para quem acessar o projeto:  
-
----
-
 # Survey Form Certification Project 🌟  
 
 Este repositório contém a **primeira parte de um trabalho de certificação**, desenvolvido como parte de um curso focado em habilidades de desenvolvimento web. O objetivo é construir um formulário de pesquisa seguindo requisitos técnicos específicos, simulando cenários reais de desenvolvimento.  
@@ -34,8 +30,4 @@ Neste projeto, desenvolvi habilidades importantes, incluindo:
 Este é o primeiro de uma série de 5 projetos. Fique atento às atualizações para acompanhar o progresso e os novos aprendizados!  
 
 ## 📝 Como Contribuir  
-Sugestões e feedback são sempre bem-vindos! Se você encontrou algo que poderia ser melhorado, fique à vontade para abrir uma _issue_ ou enviar um _pull request_.  
-
----
-
-O que acha? Posso ajustar conforme sua necessidade! 😊
+Sugestões e feedback são sempre bem-vindos! Se você encontrou algo que poderia ser melhorado, fique à vontade para abrir uma _issue_ ou enviar um _pull request_.😊 
